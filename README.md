@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### smartcard-reader
 
 smartcard-reader turns your Android device (running Kitkat or later) into a
@@ -151,3 +152,6 @@ this app benefits:
 [2]: https://github.com/afollestad/material-dialogs
 [3]: https://github.com/google/gson
 [4]: https://github.com/sasc999/javaemvreader
+=======
+# NFC1
+>>>>>>> a5ccae950b932b8486a427f805546c1362a5b459

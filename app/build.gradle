@@ -10,7 +10,7 @@ android {
         versionCode 141
         versionName "1.4.1"
 
-        minSdkVersion 19
+        minSdkVersion 18
         targetSdkVersion 22
     }
 
